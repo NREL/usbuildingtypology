@@ -4,9 +4,11 @@ You can use the [editor on GitHub](https://github.com/ejhw/usbuildingtypology/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<script src="https://raw.githubusercontent.com/ejhw/usbuildingtypology/gh-pages/test.js">
-</script>
-<div id="tableauViz"></div>
+<iframe seamless frameborder="0" 
+        src="https://public.tableau.com/views/abc_resstock_v41_pivot_for_web/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no"
+        width = '800' 
+        height = '900'>
+</iframe> 
 
 ### Markdown
 
