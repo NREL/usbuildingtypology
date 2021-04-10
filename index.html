@@ -26,32 +26,6 @@
 <body onload="initViz1();">
     <div id="vizContainer1" style="width:800px; height:700px;"></div>
 </body>
-	
 
-<head>
-    <title>Basic Embed</title>
-
-    <script type="text/javascript"
-	    src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
-    <script type="text/javascript">
-        function initViz2() {
-            var containerDiv2 = document.getElementById("vizContainer2"),
-                url = "https://public.tableau.com/profile/eric.wilson2220#!/vizhome/res_comp_loads/Dashboard12",
-                options = {
-                    hideTabs: true,
-                    onFirstInteractive: function () {
-                        console.log("Run this code when the viz has finished loading.");
-                    }
-                };
-
-            var viz2 = new tableau.Viz(containerDiv2, url, options);
-            // Create a viz object and embed it in the container div.
-        }
-    </script>
-</head>
-
-<body onload="initViz2();">
-    <div id="vizContainer2" style="width:800px; height:700px;"></div>
-</body>
 
 </html> 
