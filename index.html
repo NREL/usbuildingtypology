@@ -7,7 +7,7 @@
     <script type="text/javascript"
 	    src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
     <script type="text/javascript">
-        function initViz() {
+        function initViz1() {
             var containerDiv1 = document.getElementById("vizContainer1"),
                 url = "https://public.tableau.com/profile/eric.wilson2220#!/vizhome/abc_resstock_v41_pivot_for_web/Dashboard1",
                 options = {
@@ -17,26 +17,24 @@
                     }
                 };
 
-            var viz = new tableau.Viz(containerDiv1, url, options);
+            var viz1 = new tableau.Viz(containerDiv1, url, options);
             // Create a viz object and embed it in the container div.
         }
     </script>
 </head>
 
-<body onload="initViz();">
+<body onload="initViz1();">
     <div id="vizContainer1" style="width:800px; height:700px;"></div>
 </body>
 	
-</html> 
 
-<html>
 <head>
     <title>Basic Embed</title>
 
     <script type="text/javascript"
 	    src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
     <script type="text/javascript">
-        function initViz() {
+        function initViz2() {
             var containerDiv2 = document.getElementById("vizContainer2"),
                 url = "https://public.tableau.com/profile/eric.wilson2220#!/vizhome/res_comp_loads/Dashboard12",
                 options = {
@@ -46,13 +44,13 @@
                     }
                 };
 
-            var viz = new tableau.Viz(containerDiv2, url, options);
+            var viz2 = new tableau.Viz(containerDiv2, url, options);
             // Create a viz object and embed it in the container div.
         }
     </script>
 </head>
 
-<body onload="initViz();">
+<body onload="initViz2();">
     <div id="vizContainer2" style="width:800px; height:700px;"></div>
 </body>
 
