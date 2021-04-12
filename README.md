@@ -1,2 +1,2 @@
 # usbuildingtypology
-Website for hosting visualizations of a national typology of the U.S. building stock
+Interactive visualizations of a national U.S. building typology study, made using [ResStock](https://resstock.nrel.gov/) and [ComStock](https://comstock.nrel.gov/).
