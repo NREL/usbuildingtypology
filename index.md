@@ -4,6 +4,14 @@ You can use the [editor on GitHub](https://github.com/ejhw/usbuildingtypology/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[Residential Segments](https://public.tableau.com/profile/ericjhwilson#!/vizhome/USBuildingTypologyResidential/Segments)
+
+[Residential Component Loads](https://public.tableau.com/profile/ericjhwilson#!/vizhome/USBuildingTypologyResidentialComponentLoads/Dashboard)
+
+[Commercial Segments](https://public.tableau.com/profile/ericjhwilson#!/vizhome/USBuildingTypologyCommercial/Dashboard)
+
+[Commercial Component Loads](https://public.tableau.com/profile/ericjhwilson#!/vizhome/USBuildingTypologyCommercialComponentLoads/Dashboard)
+
 <iframe seamless frameborder="0" 
         src="https://public.tableau.com/views/abc_resstock_v41_pivot_for_web/Dashboard1?:embed=yes&:display_count=yes&:showVizHome=no"
         width = '800' 
