@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [Residential Component Loads](https://public.tableau.com/profile/ericjhwilson#!/vizhome/USBuildingTypologyResidentialComponentLoads/Dashboard)
 
-[Commercial Segments](https://public.tableau.com/profile/ericjhwilson#!/vizhome/USBuildingTypologyCommercial/Dashboard)
+[Commercial Segments](https://public.tableau.com/profile/ericjhwilson#!/vizhome/USBuildingTypologyCommercial/Segments)
 
 [Commercial Component Loads](https://public.tableau.com/profile/ericjhwilson#!/vizhome/USBuildingTypologyCommercialComponentLoads/Dashboard)
 
